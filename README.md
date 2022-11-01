@@ -1,6 +1,7 @@
-# Home Work GoIT course Full Stack Developer
+# Home Work GoIT course Full Stack Developer   
 
 ## HTML & CSS
+
 01. [x] [goit-markup-hw-01](https://github.com/savchyndd/goit-markup-hw-01)
 02. [x] [goit-markup-hw-02](https://github.com/savchyndd/goit-markup-hw-02)
 03. [x] [goit-markup-hw-03](https://github.com/savchyndd/goit-markup-hw-03)
@@ -12,7 +13,9 @@
 - [x] [Final team project](https://github.com/savchyndd/team-project-ic)
 ---
 
+
 ## JavaScript
+
 01. [x] [Auto check]()
 02. [x] [Auto check]()
 03. [x] [Auto check]()
