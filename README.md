@@ -26,7 +26,7 @@
 08. [x] [goit-js-hw-08](https://github.com/savchyndd/goit-js-hw-08)
 09. [x] [goit-js-hw-09](https://github.com/savchyndd/goit-js-hw-09)
 10. [x] [goit-js-hw-10](https://github.com/savchyndd/goit-js-hw-10)
-11. [ ] [goit-js-hw-11](https://github.com/savchyndd/goit-js-hw-11)
+11. [x] [goit-js-hw-11](https://github.com/savchyndd/goit-js-hw-11)
 - [ ] [Final team project]()
 ---
 
