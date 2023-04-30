@@ -33,7 +33,7 @@
 
 ## ReactJS
 
-01. [x] [goit-react-hw-01-components](https://github.com/savchyndd/goit-react-hw-01-components)
+ [x] 01. [goit-react-hw-01-components](https://github.com/savchyndd/goit-react-hw-01-components)
 02. FeedBack and PhoneBook
     - [] [goit-react-hw-02-feedback](https://github.com/savchyndd/goit-react-hw-02-feedback)
     - [] [goit-react-hw-02-phonebook](https://github.com/savchyndd/goit-react-hw-02-phonebook)
