@@ -33,20 +33,20 @@
 
 ## ReactJS
 
- [x] 01. [goit-react-hw-01-components](https://github.com/savchyndd/goit-react-hw-01-components)
-02. FeedBack and PhoneBook
-    - [] [goit-react-hw-02-feedback](https://github.com/savchyndd/goit-react-hw-02-feedback)
-    - [] [goit-react-hw-02-phonebook](https://github.com/savchyndd/goit-react-hw-02-phonebook)
-03. PhoneBook and Image finder
-    - [] [goit-react-hw-03-phonebook](https://github.com/savchyndd/goit-react-hw-03-phonebook)
-    - [] [goit-react-hw-03-image-finder](https://github.com/savchyndd/goit-react-hw-03-image-finder)
-04. Reack hooks: FeedBack, PhoneBook and Image finder
-    - [] [goit-react-hw-04-feedback](https://github.com/savchyndd/goit-react-hw-04-feedback)
-    - [] [goit-react-hw-04-phonebook](https://github.com/savchyndd/goit-react-hw-04-phonebook)
-    - [] [goit-react-hw-04-images](https://github.com/savchyndd/goit-react-hw-04-images)
-05. [] [goit-react-hw-05-movies](https://github.com/savchyndd/goit-react-hw-05-movies)
-06. [] [goit-react-hw-06-phonebook](https://github.com/savchyndd/goit-react-hw-06-phonebook)
-07. [] [goit-react-hw-07-phonebook](https://github.com/savchyndd/goit-react-hw-07-phonebook)
-08. [] [goit-react-hw-08-phonebook](https://github.com/savchyndd/goit-react-hw-08-phonebook)
-- [] [Final pet project]()
+01. [x] [goit-react-hw-01-components](https://github.com/savchyndd/goit-react-hw-01-components)
+02. [ ] FeedBack and PhoneBook
+    - [goit-react-hw-02-feedback](https://github.com/savchyndd/goit-react-hw-02-feedback)
+    - [goit-react-hw-02-phonebook](https://github.com/savchyndd/goit-react-hw-02-phonebook)
+03. [ ] PhoneBook and Image finder
+    - [goit-react-hw-03-phonebook](https://github.com/savchyndd/goit-react-hw-03-phonebook)
+    - [goit-react-hw-03-image-finder](https://github.com/savchyndd/goit-react-hw-03-image-finder)
+04. [ ] Reack hooks: FeedBack, PhoneBook and Image finder
+    - [goit-react-hw-04-feedback](https://github.com/savchyndd/goit-react-hw-04-feedback)
+    - [goit-react-hw-04-phonebook](https://github.com/savchyndd/goit-react-hw-04-phonebook)
+    - [goit-react-hw-04-images](https://github.com/savchyndd/goit-react-hw-04-images)
+05. [ ] [goit-react-hw-05-movies](https://github.com/savchyndd/goit-react-hw-05-movies)
+06. [ ] [goit-react-hw-06-phonebook](https://github.com/savchyndd/goit-react-hw-06-phonebook)
+07. [ ] [goit-react-hw-07-phonebook](https://github.com/savchyndd/goit-react-hw-07-phonebook)
+08. [ ] [goit-react-hw-08-phonebook](https://github.com/savchyndd/goit-react-hw-08-phonebook)
+- [ ] [Final pet project]()
 ---
