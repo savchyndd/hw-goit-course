@@ -45,12 +45,17 @@
     - [goit-react-hw-04-phonebook](https://github.com/savchyndd/goit-react-hw-04-phonebook)
     - [goit-react-hw-04-images](https://github.com/savchyndd/goit-react-hw-04-images)
 05. [x] [goit-react-hw-05-movies](https://github.com/savchyndd/goit-react-hw-05-movies)
-06. [ ] [goit-react-hw-06-phonebook](https://github.com/savchyndd/goit-react-hw-06-phonebook)
-07. [ ] [goit-react-hw-07-phonebook](https://github.com/savchyndd/goit-react-hw-07-phonebook)
-08. [ ] [goit-react-hw-08-phonebook](https://github.com/savchyndd/goit-react-hw-08-phonebook)
-- [ ] [Final pet project]()
+06. [x] [goit-react-hw-06-phonebook](https://github.com/savchyndd/goit-react-hw-06-phonebook)
+07. [x] [goit-react-hw-07-phonebook](https://github.com/savchyndd/goit-react-hw-07-phonebook)
+08. [x] [goit-react-hw-08-phonebook](https://github.com/savchyndd/goit-react-hw-08-phonebook)
+- [x] [Final pet project](https://github.com/savchyndd/contact-sync)
 
 #### Practice
 - [react-blended-1](https://savchyndd.github.io/react-blended-1/) [[GitHub](https://github.com/savchyndd/react-blended-1)]
 - [react-blended-2](https://savchyndd.github.io/react-blended-2/) [[GitHub](https://github.com/savchyndd/react-blended-2)]
+
+## NodeJS
+
+<!-- 01. [ ] [goit-react-hw-01-components](https://github.com/savchyndd/goit-react-hw-01-components) -->
+ 
 ---
