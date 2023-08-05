@@ -10,6 +10,7 @@
 06. [x] [goit-markup-hw-06](https://github.com/savchyndd/goit-markup-hw-06)
 07. [x] [goit-markup-hw-07](https://github.com/savchyndd/goit-markup-hw-07)
 08. [x] [goit-markup-hw-08](https://github.com/savchyndd/goit-markup-hw-08)
+- [x] [Final pet project](https://github.com/savchyndd/web-studio)
 - [x] [Final team project](https://github.com/savchyndd/team-project-ic)
 ---
 
@@ -27,6 +28,7 @@
 09. [x] [goit-js-hw-09](https://github.com/savchyndd/goit-js-hw-09)
 10. [x] [goit-js-hw-10](https://github.com/savchyndd/goit-js-hw-10)
 11. [x] [goit-js-hw-11](https://github.com/savchyndd/goit-js-hw-11)
+- [x] [Final pet project](https://github.com/savchyndd/goit-js-hw-11)
 - [x] [Final team project](https://github.com/dariahalai/filmoteka-project)
 ---
 
@@ -56,6 +58,12 @@
 
 ## NodeJS
 
-<!-- 01. [ ] [goit-react-hw-01-components](https://github.com/savchyndd/goit-react-hw-01-components) -->
- 
+01. [x] [goit-nodejs-hw-01-components](https://github.com/savchyndd/goit-react-hw-01-components)
+02. [x] [goit-nodejs-hw-02-express](https://github.com/savchyndd/goit-node-hw-api/tree/hw02-express)
+03. [x] [goit-nodejs-hw-03-mongodb](https://github.com/savchyndd/goit-node-hw-api/tree/hw03-mongodb)
+04. [x] [goit-nodejs-hw-04-auth](https://github.com/savchyndd/goit-node-hw-api/tree/hw04-auth)
+05. [x] [goit-nodejs-hw-05-avatars](https://github.com/savchyndd/goit-node-hw-api/tree/hw05-avatars)
+06. [x] [goit-nodejs-hw-06-email](https://github.com/savchyndd/goit-node-hw-api/tree/hw06-email)
+- [x] [Final pet project](https://github.com/savchyndd/contact-sync-api)
+- [x] [Final team project]()
 ---
